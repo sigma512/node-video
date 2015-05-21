@@ -6,7 +6,7 @@ description: "This is an introduction to Node.js using the latest updates to the
 homepage : "http://www.learncode.academy"
 author : "LearnCode.academy"
 license : "Standard Youtube License"
-url : "http://www.learncode.academy"
+freshnessDate : 2015-01-01
 -->
 
 <!-- @section -->
