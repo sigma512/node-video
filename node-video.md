@@ -1,12 +1,12 @@
 <!--
 name: node-video
 version : 0.0.1
-title : "Node.js with Express.js"
-description: "This is an introduction to Node.js using the latest updates to the Express.js framework."
+title : "Node.js Video Overview Blitz"
+description: "This module provides two video introductions to Node.js. The first video is a general overview, and the other is a fast paced walkthrough of how Node.js works with the latest updates to the Express.js framework. After just 30 minutes of  viewing time (at 1x speed), your mind will be blown with the power and possibilities of Node.js. "
 homepage : "http://www.learncode.academy"
 author : "LearnCode.academy"
 license : "Standard Youtube License"
-freshnessDate : 2015-01-01
+freshnessDate : 2015-06-17
 -->
 
 <!-- @section -->
